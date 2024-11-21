@@ -14234,7 +14234,7 @@
         "id": "pycalc",
         "name": "pycalc",
         "author": "pycalc",
-        "description": "Execution of python code directly within the editor upon pressing the Enter key.",
+        "description": "Executing Python code directly within the editor by pressing the Enter key.",
         "repo": "pycalc-plugin/obsidian"
     },
     {
